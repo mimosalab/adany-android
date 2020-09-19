@@ -1,0 +1,3 @@
+include ':adany-facebook'
+include ':app'
+rootProject.name = "Adany"
